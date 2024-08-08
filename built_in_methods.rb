@@ -70,7 +70,7 @@ num2 = 20
 num_1_updated = num1.next
 
 # Check if num2 ends with 0 using the modulo operator
-num_2_updated = num2.end_with(0)
+#num_2_updated = num2.end_with(0)
 
 #puts "Num 1's value is #{num1} and the next value is #{num_1_updated}" #Cannot figure out why its not outputting
 #puts "Num 2 ends with 0: #{num_2_updated}"  #I need to work on this
